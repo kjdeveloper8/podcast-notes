@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+Pipfile
+
+# logs:
+*.log
+
+# secret
+credentials.yml
+
+# txt
+*.txt
+
+# csv
+*.csv
+
+# json
+*.json
+
+# DS store
+**/.DS_Store
